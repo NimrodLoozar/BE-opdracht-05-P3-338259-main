@@ -1,7 +1,7 @@
 -- ********************************************************
 -- Version:       Date:       Author:           
 -- ********       ****        *******         
--- 01             03-03-2025  Thomas Tadesse
+-- 01             03-03-2025  F. Nimród Lobozár
 -- ********************************************************
 
 USE `magazijn-jamin`;
@@ -11,7 +11,7 @@ USE `magazijn-jamin`;
 -- ********************************************************
 -- Version:       Date:       Author:           Description
 -- ********       ****        *******           ***********
--- 01             03-03-2025  Thomas Tadesse    New Stored Procedure
+-- 01             03-03-2025  F. Nimród Lobozár    New Stored Procedure
 -- ********************************************************
 
 DELIMITER $$
